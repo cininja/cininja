@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cindy 👋</h1>
+<h1 align="center">Hi, I'm Cindy 👩🏻‍💻</h1>
 
 <p align="center">
   B.Sc. Computer Science @ LMU Munich
